@@ -2,7 +2,7 @@
 
 ## Group members
 
-Han Gyol Kim / hkim857@gatech.edu
+Han Gyol Kim / altair0622@gmail.com
 
 Ruxu Zhang / zhangruxu@gatech.edu
 
